@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#logO{
+    shape-image-threshold: ;
+}
+
+.li{
+ display: flex; 
+text-decoration: green;
+}
